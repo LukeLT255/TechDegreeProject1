@@ -141,17 +141,14 @@ ul.experiences {
   margin: 10px 0;
 }
 
-.experience-header{
+.experience-title{
   text-align: center;
 }
 .card-experience{
-/* margin: 30px; */
 padding: 20px 40px 40px;
 margin-top: 5%;
 margin-bottom: 5%;
 padding: 5px 10px;
-/* margin-left: 5%;
-margin-right: 5%; */
 margin:auto;
 max-width: 500px;
 text-align: center;
